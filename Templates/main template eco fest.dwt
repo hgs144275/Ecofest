@@ -1,0 +1,72 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Untitled Document</title>
+<!-- TemplateEndEditable -->
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+<style type="text/css">
+<!--
+body {
+	background-image: url(../images/pattern.png);
+}
+-->
+</style>
+<script type="text/javascript">
+<!--
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+//-->
+</script>
+<link href="https://fonts.googleapis.com/css?family=PT+Sans" rel="stylesheet" type="text/css" />
+<style type="text/css">
+<!--
+body,td,th {
+	font-family:  'PT Sans', sans-serif;
+}
+-->
+</style></head>
+
+<body onload="MM_preloadImages('../images/Acts rollover button 2.png','../images/TICKETS ROLLOVER BUTTON 2.png','../images/recycling rollover 2.png','../images/contact rollover 2.png','../images/home roll over button 2.png')">
+<table width="80%" border="1" align="center" cellpadding="10" cellspacing="0">
+  <tr>
+    <td bgcolor="#80CEFB"><h1>Eco Fest</h1></td>
+  </tr>
+  <tr>
+    <td bgcolor="#80CEFB"><a href="../index.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image5','','../images/home roll over button 2.png',1)"><img src="../images/home roll over button.png" name="Image5" width="102" height="53" border="0" id="Image5" /></a>-<a href="../acts.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image1','','../images/Acts rollover button 2.png',1)"><img src="../images/ACTS rollover button.png" alt="Acts" name="Image1" width="132" height="27" border="0" id="Image1" /></a>-<a href="../tickets.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image2','','../images/TICKETS ROLLOVER BUTTON 2.png',1)"><img src="../images/TICKETS ROLLOVER1.png" alt="Tickets" name="Image2" width="90" height="33" border="0" id="Image2" /></a>-<a href="../recycling.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image3','','../images/recycling rollover 2.png',1)"><img src="../images/recycling roll over.png" name="Image3" width="90" height="39" border="0" id="Image3" /></a>-<a href="../contact.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image4','','../images/contact rollover 2.png',1)"><img src="../images/contact roll over button.png" name="Image4" width="102" height="56" border="0" id="Image4" /></a></td>
+  </tr>
+  <tr>
+    <td bgcolor="#80CEFB"><!-- TemplateBeginEditable name="page info" -->
+      <h2>Page info</h2>
+    <!-- TemplateEndEditable --></td>
+  </tr>
+  <tr>
+    <td bgcolor="#80CEFB"><!-- TemplateBeginEditable name="Page content " -->Page content<!-- TemplateEndEditable --></td>
+  </tr>
+  <tr>
+    <td bgcolor="#80CEFB">All pages designed by <a href="mailto:144275@student.harrogategrammar.co.uk">Charles Beaumont</a></td>
+  </tr>
+</table>
+</body>
+</html>
